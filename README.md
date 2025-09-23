@@ -1,2 +1,2 @@
-# Electiva-MecatrOnica
+# Electiva-Mecatronica
 DOCUMENTACION PLC4UNI
